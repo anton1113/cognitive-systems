@@ -1,0 +1,12 @@
+CLIPS> (load "resistor.clp")
+$$!***
+TRUE
+CLIPS> (reset)
+CLIPS> (run)
+
+Input current value: 5
+Input voltage value: 10
+
+You must take resistor Ra
+
+CLIPS> 
