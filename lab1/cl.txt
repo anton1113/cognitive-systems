@@ -1,0 +1,15 @@
+CLIPS> (clear)
+CLIPS> (load "rep.clp")
+$$
+TRUE
+CLIPS> (load "represent.clp")
+:::*****
+TRUE
+CLIPS> (reset)
+CLIPS> (run)
+
+«REPRESENTATIVES»
+«fromOdesa:»4
+«fromKiev:»3
+«fromKharkiv:»4
+CLIPS> 
