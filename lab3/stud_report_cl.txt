@@ -1,0 +1,25 @@
+CLIPS> (clear)
+CLIPS> (load "stud_report.clp")
+$:::$#~~~~~~*****
+TRUE
+CLIPS> (reset)
+CLIPS> (run)
+Menu
+1. Find event by day and month
+2. Find event by month
+3. Find event by responsible
+
+Input menu choice: 2
+
+ Enter the month of the event:may
+
+ List of events:
+
+ Event 'Collecting problems ' will take place 26may. Responsible is appointed Chairman. Report must be provided Decan.
+ Event 'Collecting problems ' will take place 4may. Responsible is appointed Chairman. Report must be provided Comendant.
+ Event 'Arrival of debtors ' will take place 11may. Responsible is appointed Chairman. Report must be provided Comendant.
+ Event 'Checking the status of the block ' will take place 10may. Responsible is appointed Comendan. Report must be provided Decan.
+ Event 'Checking the status of the block ' will take place 4may. Responsible is appointed Chairman. Report must be provided Comendant.
+ Event 'Subbotnik ' will take place 6may. Responsible is appointed Chairman. Report must be provided Comendant.
+ Event 'General Faculty Meeting ' will take place 5may. Responsible is appointed Chairman. Report must be provided Decan.
+CLIPS> 
